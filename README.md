@@ -1,6 +1,6 @@
 # Video files for eBook: "Bypassing AVs by C#.NET Programming"
 
-Author :Damon Mohammadbagher
+Author: Damon Mohammadbagher
 
 Chapters :
 
