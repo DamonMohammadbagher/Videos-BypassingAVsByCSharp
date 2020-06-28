@@ -1,4 +1,4 @@
-# Video files for eBook: "Bypassing AVS by C#.NET Programming"
+# Video files for eBook: "Bypassing AVs by C#.NET Programming"
 
 Chapters :
 
