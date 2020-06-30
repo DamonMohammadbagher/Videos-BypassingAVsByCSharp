@@ -48,7 +48,7 @@ Chapters :
                     
     Chapter 13 : C# e[X]tension Method (X Technique) and bypassing Anti-viruses
     
-Note: you can watch these videos online : https://www.youtube.com/watch?v=7MCOko-qy0c&list=PLlbW0JD9GV5m53UzA3kvE1-WVvDKoNi-o
+Note: you can watch these videos online : https://www.youtube.com/watch?v=pdMgQSTuN0M&list=PLlbW0JD9GV5m53UzA3kvE1-WVvDKoNi-o&index=1
  
    
 eBook PDF Files : https://github.com/DamonMohammadbagher/eBook-BypassingAVsByCSharp
