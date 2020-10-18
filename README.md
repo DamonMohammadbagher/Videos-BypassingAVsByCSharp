@@ -54,8 +54,11 @@ in these channels you can watch Videos:
 1. https://www.youtube.com/user/bbxc9x00x1f/videos
 2. https://www.youtube.com/channel/UC7vBalrrSmuRx7pIIGLwRZw/videos
  
+-------------
+This eBook is online with simple web pages here : https://damonmohammadbagher.github.io/Posts/ebookBypassingAVsByCsharpProgramming/index.htm
+-------------
 eBook PDF Files : https://github.com/DamonMohammadbagher/eBook-BypassingAVsByCSharp
-
+-------------
 unzip (step by step):
 
   ![](https://github.com/DamonMohammadbagher/Videos-BypassingAVsByCSharp/blob/master/unzip.png)
