@@ -124,7 +124,7 @@ Chapters :
                     https://www.youtube.com/watch?v=d1a8WqOvE84
 
 
-Note: in these channels you can watch Videos online [playlists]:
+Note: in these channels (my channels) you can watch Videos online [playlists]:
 1. https://share.vidyard.com/watch/c7k7rw4RBy4erHBACeWDy2
 2. https://vimeo.com/damonmohammadbagher
 3. https://www.youtube.com/watch?v=pdMgQSTuN0M&list=PLlbW0JD9GV5m53UzA3kvE1-WVvDKoNi-o
